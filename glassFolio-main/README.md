@@ -1,6 +1,6 @@
-<h1 align="center"> GlassFolio ✨ | Dev Portfolio
+<h1 align="center"> Vighnesh ✨ | Dev Portfolio
 <br>
-<a href="https://github.com/AmreshSinha/glassfolio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AmreshSinha/glassfolio?color=blue"/></a> <a href="https://github.com/AmreshSinha/glassfolio/stargazers"><img src="https://img.shields.io/github/stars/AmreshSinha/glassfolio"></a>
+
 
 </h1>
 
@@ -25,8 +25,8 @@ Inspired by <a href="https://github.com/saadpasta/developerFolio/">developerFoli
 
 <p align="center">Change the content in <code>index.html</code> and you are good to go :)</p>
 
-<p align="center">If you want to contribute head over to <a href="https://github.com/AmreshSinha/glassfolio/issues">Issues</a> first ;)</p>
-<p align="center">Feel free to open a <a href="https://github.com/AmreshSinha/glassfolio/issues">Pull Request</a> if you added something new to it!</p>
+<p align="center">If you want to contribute head over to <a href="#">Issues</a> first ;)</p>
+<p align="center">Feel free to open a <a href="#">Pull Request</a> if you added something new to it!</p>
 
 ## Sections
 ✔️ Summary and About me\
@@ -58,15 +58,12 @@ Just change ```username``` and ```repository``` to yours and you are good to go!
 
 ## Author
 
-👤 **Amresh Sinha**
+👤 **Vighnesh**
 
-- Github: [@AmreshSinha](https://github.com/AmreshSinha/)
-- LinkedIn: [@AmreshSinha](https://www.linkedin.com/in/amresh-sinha/)
-- Portfolio: [amreshsinha.vercel.app](https://amreshsinha.vercel.app/)
 
 ## 🤝 Contributing
 
-Your awesome contribution will make this project better, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AmreshSinha/glassFolio/issues).
+Your awesome contribution will make this project better, issues and feature requests are welcome!<br />Feel free to check [issues page](#).
 
 
 ## 📝 License
@@ -83,8 +80,8 @@ This project is under [MIT License](https://github.com/AmreshSinha/glassFolio/bl
 <table align="center">
 <tr>
 <td>
-<a href="https://github.com/AmreshSinha/glassFolio/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=AmreshSinha/glassFolio" /> 
+<a href="#" align="center">
+  <img src="#" /> 
 </a>
 </td>
 </tr>
