@@ -35,7 +35,7 @@ From natural language processing to deep learning models, I've delved into the w
 - [@vighneshx]("https://github.com/vighneshx")
 
 
-## Badges
+## Licenses
 
 No Jeroen You sneaky.. Don't you dare to steal the code:
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
